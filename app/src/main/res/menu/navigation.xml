@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_feeds"
+        android:icon="@drawable/de_news"
+        android:title="@string/new_feeds" />
+
+    <item
+        android:id="@+id/navigation_connections"
+        android:icon="@drawable/de_video"
+        android:title="@string/videos" />
+
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/de_postcast"
+        android:title="@string/podcast" />
+
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@drawable/de_twitter"
+        android:title="@string/twitter" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/more"
+        android:title="@string/more" />
+
+</menu>

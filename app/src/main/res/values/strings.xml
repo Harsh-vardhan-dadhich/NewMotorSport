@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MotorSport</string>
+
+
+
+    <string name="new_feeds">New Feeds</string>
+    <string name="videos">Videos</string>
+    <string name="podcast">Podcast</string>
+    <string name="twitter">Twitter</string>
+    <string name="more">More</string>
+
+</resources>
